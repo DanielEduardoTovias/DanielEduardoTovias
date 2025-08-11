@@ -26,8 +26,12 @@
   <em>
     I am Daniel Eduardo Tovias Alanís, a QA professional with three years of experience in manual and automated testing, including API validation. 
     
-    I recently completed the QA Tester Bootcamp at TripleTen, which has further strengthened my technical skills and broadened my knowledge of modern testing practices.
-So passionate about enhancing product quality through rigorous, detail-oriented testing, always prioritizing user experience and preventing defects before release. My experience covers test planning, execution, bug reporting, and automation, ensuring software meets both functional and usability standards.
+    Throughout my professional journey, I have worked in agile environments such as 
+consulting and freelance projects. At TATA Consultancy Services, I was part of the 
+automation testing team using tools like Appium, Selenium, Java, and Perfecto (low 
+code), with a focus on mobile and Salesforce platforms. I have also developed and 
+maintained web test frameworks using TestNG and Selenium during guided and 
+freelance projects.
 
 
 <h4>TOOLS, PROGRAMMING LANGUAGES AND MORE:</h4>
