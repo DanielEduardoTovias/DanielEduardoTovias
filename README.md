@@ -25,7 +25,7 @@
 </p>
 <p align="center">
   <em>
-    I am Daniel Eduardo Tovias Alanís, a QA professional with three years of experience in manual and automated testing, including API validation. 
+    I am Daniel Eduardo Tovias Alanis, a QA professional with three years of experience in manual and automated testing, including API validation. 
     
 Throughout my professional journey, I have worked in agile environments such as consulting and freelance projects. At Consulting, I was part of the automation testing team using tools like Appium, Selenium, Java, and Perfecto (low code), with a focus on mobile and Salesforce platforms. I have also developed and maintained web test frameworks using TestNG and Selenium during guided and freelance projects.
 
