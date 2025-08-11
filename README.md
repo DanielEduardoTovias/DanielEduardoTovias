@@ -18,7 +18,10 @@
 <hr>
 <h3 align="center">Manual Testing / Automation Testing | QA Engineer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/danieleduardotoviasalanis/" target="blank"><img align="center" src="" alt="LinkedIn - Daniel Eduardo Tovias" height="30" width="40" /></a>  
+
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<a href="https://www.linkedin.com/in/danieleduardotoviasalanis/" target="blank"><img align="center" alt="LinkedIn - Daniel Eduardo Tovias" height="30" width="40" /></a>  
 </p>
 </p>
 <p align="center">
@@ -30,7 +33,7 @@ So passionate about enhancing product quality through rigorous, detail-oriented 
 
 <p TOOLS, PROGRAMMING LANGUAGES AND MORE: /p>
   
-      ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
