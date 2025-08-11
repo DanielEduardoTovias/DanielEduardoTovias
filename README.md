@@ -31,8 +31,8 @@ So passionate about enhancing product quality through rigorous, detail-oriented 
 
 
 <h4>TOOLS, PROGRAMMING LANGUAGES AND MORE:</h4>
-<span>
-  <img src = "![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)"/img>  
+
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   <img height="50" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white">
@@ -45,7 +45,7 @@ So passionate about enhancing product quality through rigorous, detail-oriented 
   ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
   ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-</span>
+
   
 
 
