@@ -19,7 +19,8 @@
 <h3 align="center">Manual Testing / Automation Testing | QA Engineer </h3>
 <p align="center">
 
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)    <p Daniel Eduardo Tovias >
+  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)    
+  <p Daniel Eduardo Tovias >
 
 </p>
 </p>
