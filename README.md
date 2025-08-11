@@ -64,9 +64,7 @@ Throughout my professional journey, I have worked in agile environments such as 
 
 <h2>GitHub Stats: <h2/>
 
-
 <br>
-
 <p align="center">
   <a href="https://github.com/DanielEduardoTovias">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielEduardoTovias&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -74,6 +72,20 @@ Throughout my professional journey, I have worked in agile environments such as 
 </p>
 </details>
 <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=DanielEduardoTovias" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=DanielEduardoTovias" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/id1945/id1945/output/github-contribution-grid-snake-dark.svg)
+  
+  ![GitHub stats](https://raw.githubusercontent.com/id1945/id1945/master/profile-3d-contrib/profile-night-green.svg)
+</div>
+
+
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=DanielEduardoTovias&border_radius=12&card_width=500&card_height=200)](https://git.io/streak-stats)
 **DanielEduardoTovias/DanielEduardoTovias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
