@@ -18,7 +18,7 @@
 <hr>
 <h3 align="center">Manual Testing / Automation Testing | QA Engineer </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/danieleduardotoviasalanis/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/danieleduardotoviasalanis/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="LinkedIn - Daniel Eduardo Tovias" height="30" width="40" /></a>  
 </p>
 </p>
 ----
