@@ -4,7 +4,6 @@
   <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
 </p>
 <br>
-
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=brightgreen" alt="watching_count" />
  </p>
@@ -14,13 +13,12 @@
   <img src="https://img.shields.io/badge/Focus-Manual%20Testing-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Mobile%20Testing-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-API%20Testing-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
 <hr>
 <h3 align="center">Manual Testing / Automation Testing | QA Engineer </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/danieleduardotoviasalanis/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-
 </p>
 </p>
 ----
