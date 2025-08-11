@@ -25,6 +25,7 @@
 <p align="center">
   <em>
     I am Daniel Eduardo Tovias Alanís, a QA professional with three years of experience in manual and automated testing, including API validation. 
+    
     I recently completed the QA Tester Bootcamp at TripleTen, which has further strengthened my technical skills and broadened my knowledge of modern testing practices.
 
 So passionate about enhancing product quality through rigorous, detail-oriented testing, always prioritizing user experience and preventing defects before release. My experience covers test planning, execution, bug reporting, and automation, ensuring software meets both functional and usability standards.
