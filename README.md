@@ -6,9 +6,9 @@
 <br>
 <p align="left"> 
 
-  [![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieleduardotoviasalanis/)
+  [![Linkedin](https://img.shields.io/badge/-DanielEduardoTovias-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieleduardotoviasalanis/)
 
-  [![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:toviasalanisd@gmail.com)
+  [![Gmail](https://img.shields.io/badge/-toviasalanisd@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:toviasalanisd@gmail.com)
 
 
  </p>
