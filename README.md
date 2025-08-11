@@ -1,5 +1,17 @@
 ## Hi there, I´m Daniel Tovias - QA Engineer 👋
 
+https://img.shields.io/badge/ManualTesting-AutomationTesting-blue
+----
+
+
+
+
+
+ 
+
+
+
+
 <!--
 **DanielEduardoTovias/DanielEduardoTovias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
