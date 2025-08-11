@@ -36,9 +36,8 @@ So passionate about enhancing product quality through rigorous, detail-oriented 
   
   <code> <img height="50" src="![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)"> </code>
   
-  <code> <img height="50" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"> </code>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
-  <code> <img height="50" src="![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)"> </code>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   <img height="50" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white">
 
