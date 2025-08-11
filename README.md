@@ -5,6 +5,9 @@
 </p>
 <br>
 <p align="left"> 
+    [![Linkedin](https://img.shields.io/badge/-izzuddinahsanujunda-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danieleduardotoviasalanis/)
+    [![Gmail](https://img.shields.io/badge/-izzuddin.ahsanujunda@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:toviasalanisd@gmail.com)
+
 
  </p>
  <p align="center">
@@ -17,10 +20,6 @@
 </p>
 <hr>
 <h3 align="center">Manual Testing / Automation Testing | QA Engineer </h3>
-<p align="center">
-  
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) Daniel Eduardo Tovias 
-</p>
 </p>
 <p align="center">
   <em>
