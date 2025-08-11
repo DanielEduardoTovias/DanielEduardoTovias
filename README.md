@@ -65,6 +65,16 @@ Throughout my professional journey, I have worked in agile environments such as 
 <h2>GitHub Stats: <h2/>
 
 
+<br>
+
+<p align="center">
+
+  <a href="https://github.com/DanielEduardoTovias">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielEduardoTovias&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+</details>
+<br>
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com?user=DanielEduardoTovias&border_radius=12&card_width=500&card_height=200)](https://git.io/streak-stats)
 **DanielEduardoTovias/DanielEduardoTovias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
