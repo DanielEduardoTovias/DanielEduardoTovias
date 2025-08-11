@@ -61,13 +61,10 @@ Throughout my professional journey, I have worked in agile environments such as 
 
 
 
-
-
-
-
+<h4> STATS <h4/>
  
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Daniel%20Tovias&border_radius=12&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 
 <!--
