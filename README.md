@@ -29,7 +29,10 @@
     I recently completed the QA Tester Bootcamp at TripleTen, which has further strengthened my technical skills and broadened my knowledge of modern testing practices.
 So passionate about enhancing product quality through rigorous, detail-oriented testing, always prioritizing user experience and preventing defects before release. My experience covers test planning, execution, bug reporting, and automation, ensuring software meets both functional and usability standards.
 
-TOOLS, PROGRAMMING LANGUAGES AND MORE:
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;TOOLS, PROGRAMMING LANGUAGES AND MORE:
+<p align="left">
+
   
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -70,6 +73,7 @@ TOOLS, PROGRAMMING LANGUAGES AND MORE:
 
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
+<p align="center">
 
 
 - I am open to opportunities in both Manual QA and Test Automation, eager to apply my skills and continue growing within dynamic, quality-focused teams.
