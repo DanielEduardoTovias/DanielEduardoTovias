@@ -34,8 +34,7 @@ So passionate about enhancing product quality through rigorous, detail-oriented 
 
 - Postman for API testing and validation
 
-- <img src = "![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
-"/>Python (pytest) for scripting and automation
+- ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) Python (pytest) for scripting and automation
 
 - Git for version control and collaborative workflows
 
