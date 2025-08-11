@@ -43,7 +43,8 @@ TOOLS, PROGRAMMING LANGUAGES AND MORE:
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white
+<img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" height="200"/>
+
 
 ![PyPi](https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7)
 
