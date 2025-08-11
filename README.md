@@ -1,7 +1,7 @@
 ## Hi there, I´m Daniel Tovias - QA Engineer 👋
 
 <p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" height="200"/>
 </p>
 <br>
 <p align="left"> 
