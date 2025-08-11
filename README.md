@@ -77,14 +77,11 @@ Throughout my professional journey, I have worked in agile environments such as 
 </details>
 <br>
 
-
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=DanielEduardoTovias&theme=react-dark&hide_border=true&area=true)
 
  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DanielEduardoTovias&border_radius=12&card_width=500&card_height=200)](https://git.io/streak-stats)
-
-
-<!--
+<!--[![GitHub Streak](https://streak-stats.demolab.com?user=DanielEduardoTovias&border_radius=12&card_width=500&card_height=200)](https://git.io/streak-stats)
 **DanielEduardoTovias/DanielEduardoTovias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
