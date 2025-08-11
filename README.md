@@ -28,17 +28,13 @@
     I recently completed the QA Tester Bootcamp at TripleTen, which has further strengthened my technical skills and broadened my knowledge of modern testing practices.
 So passionate about enhancing product quality through rigorous, detail-oriented testing, always prioritizing user experience and preventing defects before release. My experience covers test planning, execution, bug reporting, and automation, ensuring software meets both functional and usability standards.
 
-- I am proficient in industry-standard tools and technologies, including:
-- Selenium for web test automation
-- Jira for issue tracking and project management
-
-- Postman for API testing and validation
-
-- ![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3) Python (pytest) for scripting and automation
-
-- Git for version control and collaborative workflows
-
-- My approach combines methodical testing strategies with a collaborative mindset, working closely with developers, product managers, and other stakeholders to deliver reliable, high-quality software.
+<p TOOLS, PROGRAMMING LANGUAGES AND MORE: 
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+>
 
 - I am open to opportunities in both Manual QA and Test Automation, eager to apply my skills and continue growing within dynamic, quality-focused teams.
   </em> 
