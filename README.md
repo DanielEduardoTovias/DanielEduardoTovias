@@ -24,9 +24,25 @@
 
 <p align="center">
   <em>
-    Hello, I am Ovindu Wijethunge a <b>final year</b> undergraduate from <a href="https://uom.lk/"> <b>University Of Moratuwa</b>, Sri-Lanka (" Wisdom is all wealth ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
+    I am Daniel Eduardo Tovias Alanís, a QA professional with three years of experience in manual and automated testing, including API validation. I recently completed the QA Tester Bootcamp at TripleTen, which has further strengthened my technical skills and broadened my knowledge of modern testing practices.
+
+So passionate about enhancing product quality through rigorous, detail-oriented testing, always prioritizing user experience and preventing defects before release. My experience covers test planning, execution, bug reporting, and automation, ensuring software meets both functional and usability standards.
+
+- I am proficient in industry-standard tools and technologies, including:
+
+- Selenium for web test automation
+
+- Jira for issue tracking and project management
+
+- Postman for API testing and validation
+
+- Python for scripting and automation
+
+- Git for version control and collaborative workflows
+
+- My approach combines methodical testing strategies with a collaborative mindset, working closely with developers, product managers, and other stakeholders to deliver reliable, high-quality software.
+
+- I am open to opportunities in both Manual QA and Test Automation, eager to apply my skills and continue growing within dynamic, quality-focused teams.
   </em> 
   <br>
     <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
