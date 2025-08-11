@@ -21,24 +21,21 @@
 <a href="https://www.linkedin.com/in/danieleduardotoviasalanis/" target="blank"><img align="center" src="" alt="LinkedIn - Daniel Eduardo Tovias" height="30" width="40" /></a>  
 </p>
 </p>
-
 <p align="center">
   <em>
     I am Daniel Eduardo Tovias Alanís, a QA professional with three years of experience in manual and automated testing, including API validation. 
     
     I recently completed the QA Tester Bootcamp at TripleTen, which has further strengthened my technical skills and broadened my knowledge of modern testing practices.
-
 So passionate about enhancing product quality through rigorous, detail-oriented testing, always prioritizing user experience and preventing defects before release. My experience covers test planning, execution, bug reporting, and automation, ensuring software meets both functional and usability standards.
 
 - I am proficient in industry-standard tools and technologies, including:
-
 - Selenium for web test automation
-
 - Jira for issue tracking and project management
 
 - Postman for API testing and validation
 
-- Python for scripting and automation
+- <img src = "![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+"/>Python (pytest) for scripting and automation
 
 - Git for version control and collaborative workflows
 
