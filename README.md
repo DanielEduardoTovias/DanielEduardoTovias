@@ -15,13 +15,16 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-27-blue" />
   <img src="https://img.shields.io/badge/Focus-Automation%20Testing-brightgreen" />
+   <img src="https://img.shields.io/badge/Focus-DataEngineering%20Testing-brightgreen" />
+   <img src="https://img.shields.io/badge/Focus-ETL Processes%20Testing-brightgreen" />
+   <img src="https://img.shields.io/badge/Focus-%20Testing-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Manual%20Testing-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-Mobile%20Testing-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-API%20Testing-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Spanish-brightgreen" />
 </p>
 <hr>
-<h3 align="center">Manual Testing / Automation Testing | QA Engineer </h3>
+<h3 align="center">ETL PROCESSES - Data Engineering / Manual Testing / Automation Testing | QA Engineer </h3>
 </p>
 <p align="center">
   <em>
@@ -32,6 +35,7 @@ Throughout my professional journey, I have worked in agile environments such as 
 
 <h4>TOOLS, PROGRAMMING LANGUAGES AND MORE:</h4>
 
+  
   ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
