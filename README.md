@@ -1,4 +1,4 @@
-## Hi there, I´m Daniel Tovias - QA Engineer 👋
+## Hi there, I´m Daniel Tovias - Data Engineer and QA Engineer 👋
 
 <p align="center">
   
